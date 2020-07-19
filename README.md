@@ -51,9 +51,7 @@ I am using MacOS Catalina version 10.15.6 with **Visual studio code**.
 ## Usage
 
 ```
-Follow the step by step opencv installation and codding process. 
-Including basic core operations, image processing, 
-camera calibrations, 3D reconstruction and object detections.
+Follow the step by step of JAVA testing process. 
 ```
 
 
